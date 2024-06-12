@@ -1,2 +1,2 @@
 # Airbnb-Room-Type-Prediction
-I developed a classification model based on the data provided by InsideAirBnB to predict the room type of an accommodation
+The objective of the analysis is to develop a classification model based on the data provided by InsideAirBnB to predict the room type of an accommodation (shared room, private room or entire apartment). To achieve this, three supervised learning algorithms will be used: Naive Bayes, K-Nearest Neighbors (KNN) and Decision Tree. The performance of these models will be evaluated and compared to determine which one provides better results, especially in terms of overall accuracy and ability to handle imbalanced classes.
